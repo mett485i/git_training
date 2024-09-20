@@ -1,4 +1,3 @@
 library(shiny)
-hej igen 
-mit navn er mette
+hej igen ekstra forklaring
 
